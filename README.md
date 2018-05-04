@@ -1,2 +1,2 @@
 # yukcoding.github.io
-Homepage YukCoding Repository
+Homepage YukCoding Repository (Tutorials)
